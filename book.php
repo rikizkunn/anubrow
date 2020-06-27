@@ -90,7 +90,7 @@ function add($token, $header, $uid){
 @@system(clear);
 echo "+-NETWEZEN REVOLUTION-+\n";
 echo "+-Booking.com-+\n";
-echi "[!] CODED BY RZYZ GAVINI [!]\n";
+echo "[!] CODED BY RZYZ GAVINI [!]\n";
 echo "[!] use vpn for get more rewards [!]\n";
 sleep(2);
 echo "[?] Email Gmail : ";
