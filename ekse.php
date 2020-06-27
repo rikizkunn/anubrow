@@ -62,7 +62,7 @@ function add($token, $header,$result){
 @@system(clear);
 echo "+-NETWEZEN REVOLUTION-+\n";
 echo "+-Booking.com-+\n";
-echo "[!] use vpn for get more rewards [!]";
+echo "[!] use vpn for get more rewards [!]\n";
 sleep(2);
 echo "[?] Email (ex : netwezeen@yopmail.com) : ";
 $email = trim(fgets(STDIN));
