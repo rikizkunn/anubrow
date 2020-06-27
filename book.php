@@ -1,5 +1,6 @@
 <?php
 //Created with <3 by rzyz gavini
+//Netwezeen Revolution
 $header = array( 			
     "X-LIBRARY: okhttp+network-api",
     "Authorization: Basic dGhlc2FpbnRzYnY6ZGdDVnlhcXZCeGdN",
@@ -89,6 +90,7 @@ function add($token, $header, $uid){
 @@system(clear);
 echo "+-NETWEZEN REVOLUTION-+\n";
 echo "+-Booking.com-+\n";
+echi "[!] CODED BY RZYZ GAVINI [!]\n";
 echo "[!] use vpn for get more rewards [!]\n";
 sleep(2);
 echo "[?] Email Gmail : ";
